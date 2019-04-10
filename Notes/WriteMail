@@ -1,0 +1,19 @@
+Markdown is used for writing
+
+
+
+[20190410 8:38:40.936 PDT [dekko.plugman.registry] >> Getting all enabled plugins
+[20190410 8:38:40.939 PDT [dekko.plugman.registry] >> Plugin enabled:  "ubuntu-mail-composer"
+[20190410 8:38:40.943 PDT [dekko.plugman.itemregistry] >> Found first enabled plugin
+[20190410 8:38:40.960 PDT [dekko.plugman.registry] >> Getting all enabled plugins
+[20190410 8:38:40.962 PDT [dekko.plugman.registry] >> Plugin enabled:  "ubuntu-mail-composer-ui"
+[20190410 8:38:40.965 PDT [dekko.plugman.itemregistry] >> Loading first enabled plugin
+[20190410 8:38:41.069 PDT Got library name:  "/usr/lib/arm-linux-gnueabihf/qt5/qml/io/thp/pyotherside/libpyothersideplugin.so"
+[20190410 8:38:41.249 PDT [dekko.plugman.incubator] >> Incubating plugin
+[20190410 8:38:41.454 PDT file:///opt/click.ubuntu.com/dekko2.dekkoproject/0.1.8-21b84/lib/arm-linux-gnueabihf/bin/plugins/ubuntu/mail/utils/QtCoreAPI.js:6: TypeError: Type error
+[20190410 8:38:41.671 PDT [dekko.plugman.incubator] >> Incubator finished and ready to hatch.
+
+// Expanded CSS is at fault here
+[20190410 8:38:41.688 PDT "PyOtherSide error: invalid syntax (markdownutils.py, line 7)"
+Segmentation fault
+
