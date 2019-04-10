@@ -40,7 +40,7 @@ UbuntuShape {
     Label {
         id: label
         anchors.centerIn: parent
-        color: "#ffffff"
+        color: "#FFFFFF"
     }
 
     SequentialAnimation {

@@ -6,12 +6,12 @@ import pynliner
 
 MARKDOWN_CSS=
 
-'''
+
 body {
     font-family: Ubuntu, arial, sans-serif;
     font-size: 14px;
     line-height: 1.33;
-    background-color: #fff;
+    background-color: #000;
     padding: 5px;
 }
 
@@ -179,7 +179,7 @@ table {
 
 table tr {
     border-top: 1px solid #ccc;
-    background-color: #fff;
+    background-color: #000;
     margin: 0;
     padding: 0;
 }
